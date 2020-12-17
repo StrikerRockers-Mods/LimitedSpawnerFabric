@@ -5,5 +5,5 @@ import me.sargunvohra.mcmods.autoconfig1u.annotation.Config;
 
 @Config(name = LimitedSpawner.MODID)
 public class ModConfig implements ConfigData {
-    public int limit = 1;
+    public int limit = 100;
 }
