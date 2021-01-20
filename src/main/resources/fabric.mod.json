@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "limitedspawners",
   "version": "${version}",
   "name": "Limited Spawner",
   "description": "Adds a limit for number of mobs a mob spawners can spawn.",
