@@ -1,7 +1,7 @@
 package io.github.strikerrocker;
 
-import me.sargunvohra.mcmods.autoconfig1u.ConfigData;
-import me.sargunvohra.mcmods.autoconfig1u.annotation.Config;
+import me.shedaniel.autoconfig.ConfigData;
+import me.shedaniel.autoconfig.annotation.Config;
 
 @Config(name = LimitedSpawner.MODID)
 public class ModConfig implements ConfigData {
