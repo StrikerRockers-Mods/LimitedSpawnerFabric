@@ -18,7 +18,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "limitedspawners.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.7.4",
