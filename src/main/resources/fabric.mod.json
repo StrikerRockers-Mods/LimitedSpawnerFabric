@@ -21,10 +21,10 @@
     "limitedspawners.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.13.0",
+    "fabricloader": ">=0.14.0",
     "fabric": "*",
-    "minecraft": "1.18.x",
+    "minecraft": "1.19.x",
     "java": ">=17",
-    "cloth-config2": ">=6.0.42"
+    "cloth-config2": ">=7"
   }
 }
