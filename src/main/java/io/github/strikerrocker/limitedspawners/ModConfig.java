@@ -1,4 +1,4 @@
-package io.github.strikerrocker;
+package io.github.strikerrocker.limitedspawners;
 
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;

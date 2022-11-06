@@ -11,10 +11,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.strikerrocker.LimitedSpawner"
+      "io.github.strikerrocker.limitedspawners.LimitedSpawner"
     ],
     "modmenu": [
-      "io.github.strikerrocker.ModMenuCompat"
+      "io.github.strikerrocker.limitedspawners.ModMenuCompat"
     ]
   },
   "mixins": [

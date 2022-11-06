@@ -1,6 +1,6 @@
-package io.github.strikerrocker.mixin;
+package io.github.strikerrocker.limitedspawners.mixin;
 
-import io.github.strikerrocker.LimitedSpawner;
+import io.github.strikerrocker.limitedspawners.LimitedSpawner;
 import net.minecraft.core.BlockPos;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.world.level.BaseSpawner;

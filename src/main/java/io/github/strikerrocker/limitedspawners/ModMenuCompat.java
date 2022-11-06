@@ -1,4 +1,4 @@
-package io.github.strikerrocker;
+package io.github.strikerrocker.limitedspawners;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
